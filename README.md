@@ -84,7 +84,7 @@ A backend REST API that calculates shipping charges based on distance, product w
 
 ## 📁 Project Structure
 
-
+```
 com.shipping
 │
 ├── controller
@@ -121,7 +121,7 @@ com.shipping
 │
 └── util
 └── DistanceUtil.java
-
+```
 
 ---
 
