@@ -239,7 +239,7 @@ This project is for learning and demonstration purposes only.
 
 ## 🔗 Connect
 
-GitHub: https://github.com/aishwaryabehare1504
+GitHub: https://github.com/aishwaryabehare1504 <br>
 LinkedIn: https://www.linkedin.com/in/aishwarya-behare-45191b307/
 
 ---
